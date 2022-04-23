@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background: #eee;
+    color: #666
+}
+
+.login-container{
+    height: 100vh;
+    width: 100%;
+}
+
+.login-form{
+    max-width: 100%;
+    width: 370px;
+    padding: 15px;
+    margin: auto;
+}
+.form-control{
+    font-size: 15px;
+    min-height: 48px;
+    font-weight: 500;
+}
+
+
+
+.login-form a{
+    text-decoration: none;
+    color:#666;
+}
+
+.login-form a:hover{
+    color:#723dbe;
+}
+
+.btn-custom{
+    background: #723dbe;
+    border-color: #723dbe;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+    min-height: 48px;
+}
