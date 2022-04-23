@@ -1,5 +1,5 @@
 # mail-notification-telegram-bot
-Telegram Bot for mail notifications implemented with java spring boot, Telegram Bot API and SMTP
+Telegram Bot for mail notifications implemented with java spring boot, Telegram Bot API
 
 # Tools & Tech Used
   * Spring Boot - 2.2.2.RELEASE
